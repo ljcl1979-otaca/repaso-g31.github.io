@@ -1,0 +1,41 @@
+body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.menu {
+    background-color: black;
+    padding: 20px;
+}
+
+.menu li{
+    display: inline-block;
+    margin-right: 20px;
+
+   
+}
+
+.menu a {
+    color:white;
+}
+
+.pfloat {
+    float:left;
+    width:33%;
+}
+
+.features {
+    background-color: blue;
+    display: flow-root;
+}
+.pinline {
+    width:30%;
+    display: inline-block;
+}
+
+.pinline i {
+    display: block;
+    text-align: center;
+}

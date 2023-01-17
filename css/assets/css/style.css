@@ -1,0 +1,55 @@
+/*
+Esto es un comentario en CSS
+*/
+
+/* Esta propiedad la coloque para resaltar una palabra */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    color: red;
+    font-size: 20px;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 40px;
+    color: brown;
+}
+
+.claseUno {
+    background-color: aqua;
+    border: 2px solid red;
+    margin-bottom: 50px;
+    padding-left: 30px;
+}
+
+.letraGrande {
+    font-size: 25pt;
+}
+
+#parrafoUno {
+    color: #F1C40F;
+}
+
+.skills {
+    font-size: 20px;
+    color: green;
+}
+
+#bloque1 {
+    background-color: darkcyan;
+    padding: 50px;
+}
+
+#bloque2 {
+    background-color: white;
+    padding: 40px;
+}
+
+#bloque3 {
+    background-color:lightgreen;
+    padding: 65px;
+}
